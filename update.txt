@@ -1,8 +1,0 @@
-3 "Final Fight" 1 1000000
-3 "Area 51" 3 25
-3 "Star Wars" 2 VDR
-3 2 OOP
-3 "Burger Time" 4 200.00
-3 "Double Dragon" 1 100abc000
-3 "Tempest" 2 TOOMANY
-3 "Dig Dug" 3 123.75
